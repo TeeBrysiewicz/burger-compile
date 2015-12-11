@@ -1,0 +1,22 @@
+{
+  "name": "burger-compile",
+  "version": "1.0.0",
+  "description": "compilation tasks for styles and html from html-burger",
+  "main": "gulpfile.js",
+  "author": "Heather Brysiewicz <heather@cursivelabs.com> (http://cursivelabs.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-live-server": "0.0.29",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-replace": "^0.5.4",
+    "gulp-template": "^3.1.0",
+    "gulp-util": "^3.0.7",
+    "map-stream": "0.0.6",
+    "require-dir": "^0.3.0",
+    "vinyl-transform": "^1.0.0"
+  }
+}
